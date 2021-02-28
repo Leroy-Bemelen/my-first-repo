@@ -1,3 +1,5 @@
 # my-first-repo
 
-https://www.zuyd.nl/
+
+
+Klik hier om naar de site van [Zuyd Hogeschool](https://www.zuyd.nl/) te gaan.
